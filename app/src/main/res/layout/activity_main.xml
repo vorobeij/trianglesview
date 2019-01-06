@@ -16,21 +16,4 @@
         app:layout_constraintTop_toTopOf="parent"
         app:mv_baseColor="#990000"
         app:mv_dots="100" />
-
-    <!--<au.sjowl.lib.twolinestextview.TwoLinesTextView-->
-    <!--android:id="@+id/textView"-->
-    <!--android:layout_width="0dp"-->
-    <!--android:layout_height="wrap_content"-->
-    <!--android:padding="16dp"-->
-    <!--android:text="Hello World!"-->
-    <!--android:textColor="@color/colorPrimaryDark"-->
-    <!--android:textSize="16sp"-->
-    <!--app:layout_constraintBottom_toBottomOf="parent"-->
-    <!--app:layout_constraintLeft_toLeftOf="parent"-->
-    <!--app:layout_constraintRight_toRightOf="parent"-->
-    <!--app:layout_constraintTop_toTopOf="parent"-->
-    <!--app:underlineColor="#1E05AF"-->
-    <!--app:underlineSize="12sp"-->
-    <!--app:underlineText="xxxx xx xx" />-->
-
 </androidx.constraintlayout.widget.ConstraintLayout>

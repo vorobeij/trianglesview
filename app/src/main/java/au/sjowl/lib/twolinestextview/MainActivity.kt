@@ -14,8 +14,5 @@ class MainActivity : AppCompatActivity() {
             v.invalidate()
             false
         }
-
-//        textView.underlines = "woman guard security of hospital he found him <63χρονο> unconscious in entrance and right away call aid".split(" ")
-//        textView.text = "Σύμφωνα με την Αστυνομία, γυναίκα φρουρός ασφαλείας του νοσοκομείου εντόπισε τον 63χρονο αναίσθητο στην είσοδο και αμέσως κάλεσε βοήθεια".split(" ")
     }
 }
