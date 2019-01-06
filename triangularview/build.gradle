@@ -37,10 +37,10 @@ buildscript {
 publish {
     userOrg = 'sjowl'
     groupId = 'au.sjowl.libs.view.triangularview'
-    artifactId = 'triangularview'
+    artifactId = 'trianglesview'
     publishVersion = '0.0.1'
     desc = 'Android library random triangles view'
-    website = 'https://github.com/SJOwl/triangularview'
+    website = 'https://github.com/SJOwl/trianglesview'
 }
 
 android {
