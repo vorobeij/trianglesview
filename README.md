@@ -14,4 +14,4 @@ implementation
         app:mv_dots="100" />
 ```
 
-![alt text](https://www.star.hawaii.edu/help/public/images/STARlogo.png)
+![alt text](./demo.png)
